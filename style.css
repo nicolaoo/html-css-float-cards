@@ -1,0 +1,20 @@
+*{
+box-sizing: border-box;
+padding: 0;
+margin: 0;
+}
+
+body{
+    max-width: 900px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.title{
+    color: fuchsia;
+}
+
+.figure{
+    background-color: blue;
+    height: 100px;
+}
